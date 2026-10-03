@@ -85,7 +85,7 @@ FROM local.seguradora.carros.snapshots;
 | append | carga inicial |
 | append | INSERT |
 | overwrite | UPDATE |
-| overwrite / delete | DELETE |
+| overwrite | DELETE |
 
 ```sql
 SELECT * FROM local.seguradora.carros VERSION AS OF <snapshot_id>;
