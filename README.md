@@ -6,7 +6,7 @@ Trabalho de Engenharia de Dados (UNISATC), Prof. Jorge Luiz da Silva.
 
 📖 **Documentação:** https://raffaelarcego.github.io/trabalho-apachespark-eng_dados/
 
-**Integrantes:** Raffael · _Integrante 2_ · _Integrante 3_
+**Integrantes:** Raffael Michels Arcego · Isabelle Luiz Feltrin
 
 ## Pré-requisitos
 
