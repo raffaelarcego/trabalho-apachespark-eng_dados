@@ -1,0 +1,26 @@
+site_name: Spark com Delta Lake e Iceberg
+repo_url: https://github.com/raffaelarcego/trabalho-apachespark-eng_dados
+
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    primary: green
+  features:
+    - content.code.copy
+
+nav:
+  - Contexto: index.md
+  - Apache Spark: pyspark.md
+  - Delta Lake: delta.md
+  - Apache Iceberg: iceberg.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - pymdownx.highlight
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
