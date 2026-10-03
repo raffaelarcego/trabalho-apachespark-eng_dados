@@ -6,3 +6,5 @@ spark-warehouse/
 metastore_db/
 derby.log
 site/
+.coverage
+logs/
