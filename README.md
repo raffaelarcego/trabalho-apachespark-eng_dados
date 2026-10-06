@@ -48,7 +48,7 @@ cd trabalho-apachespark-eng_dados
 uv sync
 ```
 
-## Howto
+## Como rodar
 
 ```bash
 uv run jupyter lab
